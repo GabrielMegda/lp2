@@ -1,0 +1,3 @@
+No Exercicio 3, o resultado da operação de divisão foi aproximada para zero, por se tratar de uma variavel do tipo inteiro,
+Ja nos Exercicios 4 e 5, o resultado apresentado na divisão foi 0.75 por se tratarem de numeros reais, mais o doble ainda pode
+ser mais preciso que o float em caso de calculos com valores maiores.
