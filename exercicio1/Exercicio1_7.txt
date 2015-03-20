@@ -1,0 +1,9 @@
+variavel 3 7
+variavel 4 10.5
+variavel 5 10.0
+variavel 4 maior que 10
+variavel 5 e menor igual a 10
+
+A variavel 4 é maior que 10, pois a variavel1 foi atribuida a ela como float, fazendo com q o resultado não fosse arredondado,
+fazendo com que o resultado fosse 10,5. Diferente da variavel5, que permaneceu como int, e portanto arredondando a divisão para
+10.
