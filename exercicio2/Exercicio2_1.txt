@@ -1,0 +1,5 @@
+Tipo Abstrato de Dados – TAD - é uma coleção bem definida de dados a serem armazenados, e um grupo de operadores que podem ser
+aplicados para manipulação desses dados.
+
+
+Mensagens: Comunicação entre os objetos, como passar por parametro.
