@@ -1,5 +1,8 @@
-Tipo Abstrato de Dados – TAD - é uma coleção bem definida de dados a serem armazenados, e um grupo de operadores que podem ser
+Tipo Abstrato de Dados: é uma coleção bem definida de dados a serem armazenados, e um grupo de operadores que podem ser
 aplicados para manipulação desses dados.
 
+Classe: representa um modelo abstrato, e possui atributos e operações.
+
+Objeto: é a instância de uma classe.
 
 Mensagens: Comunicação entre os objetos, como passar por parametro.
