@@ -39,7 +39,7 @@ public class NumeroMuitoGrande {
         }
 
         for (k = 0; k < 10; k++) {
-            resultadoSoma[k] += valor1[i] + valor2[k];
+            resultadoSoma[k] += valor1[i] + valor2[j];
         }
         if(resultadoSoma[k]>30){
             System.out.println("numero maior que 30 posições");
